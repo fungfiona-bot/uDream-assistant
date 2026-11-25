@@ -1,0 +1,115 @@
+=== Manual PDF page 7 ===
+
+1. Locking lever for footrest 
+2. Seat
+3. Compartment
+4. Control panel
+5. Lower arm airbag massage unit
+6. Scent cartridge holders
+7. Upper arm airbag massage unit
+8. Speakers
+9. SkyCanopy ambient light
+10. Side ambient light
+11. Headrest cushion
+12. Backrest cushion
+Names of parts and functions
+13. Entertainment stand
+14. Entertainment stand holder with USB ports
+(1x USB-A, 1x USB-C)
+15. Footrest massage unit
+16. Retractable SkyCanopy
+17. Backrest cover
+18. Handles
+19. Casters
+20. Power cord and power plug*
+21. Main power switch
+22. Power inlet
+* Power plug and main power switch will vary according to country.
+* Product images are for illustrative purposes only and are not drawn to scale.
+Well-Being Chair
+
+=== Manual PDF page 8 ===
+
+Names of parts and functions
+Control Panel - Left
+Bluetooth button 
+• When Bluetooth is  off, press to turn on 
+Bluetooth.
+• Press and hold 3 seconds  to reset Bluetooth.
+Note
+ • When the product is turned on or exits Standby mode, Bluetooth will be automatically  turned on.
+ • If there is no Bluetooth connectivity within 4 minutes, Bluetooth will be automatically  turned off. 
+ • When the product is paired with OSIM Well-Being App, all functions (excluding Power/Stop, 
+Reset, and Bluetooth buttons) on the control panel will be disabled.
+Warm air button 
+• Press to turn on warm air.
+• Press again to turn off  warm air.
+Ambient light button 
+• Press to toggle ambient  light programs.
+• Press and hold 3 seconds  to turn off/on ambient  light.
+Scent button 
+• Press to turn on both  scents.
+• Press again to turn off  both scents.
+Shoulder position adjustment
+Press [+] button to increase shoulder position by 1.
+Press [-] button to decrease shoulder position by 1.
+Massage intensity adjustment
+Press [+] button to increase massage intensity by 1.
+Press [-] button to decrease massage intensity by 1.
+SkyCanopy position adjustment
+Press [▲] button to move
+SkyCanopy to its fully extended position.
+Press [▼] button to move
+SkyCanopy to its fully retracted position.
+
+=== Manual PDF page 8 ===
+
+Bluetooth LED Light Indication: Blue Slow Glowing Light
+Meaning: Bluetooth is on, waiting to pair with smart device.
+
+=== Manual PDF page 8 ===
+
+Bluetooth LED Light Indication: Blue Solid Light
+Meaning: Bluetooth is connected to smart device.
+
+=== Manual PDF page 8 ===
+
+Bluetooth LED Light Indication: Blue Fast Blinking Light
+Meaning: Bluetooth is resetting.
+
+=== Manual PDF page 8 ===
+
+Bluetooth LED Light Indication: Light Off
+Meaning: Bluetooth is off.
+
+=== Manual PDF page 9 ===
+
+When the Standby LED indicator turns on, it means the product has entered standby mode,  during this period the product power consumption will be less than 0.8W. The icon [ ] is to  remind users that for optimal safety and energy conservation, please remember to unplug the  electrical power plug when not in use.
+Standby LED Indication
+Names of parts and functions
+Control Panel - Right
+Standby LED 
+Reset button 
+• Press and hold to stop  the program and reset  the chair to the Upright  position.
+Power/Stop button 
+• Press to E-stop massage.
+• When chair is in standby  mode, press to exit  standby mode .
+Backrest adjustment 
+• Press and hold :  backrest raises.
+• Press and hold :  backrest lowers.
+Footrest adjustment 
+• Press and hold :  footrest extends.
+• Press and hold :  footrest retracts.
+Auto massage program  buttons 
+• Press and hold the  program buttons 
+(I to V). Chair will move  to designated position to  start the program.
+*More auto massage programs  are available in OSIM Well-Being 
+App.
+Lock button 
+• Press and hold 3 seconds  to lock the control panels.
+• Press and hold 3 seconds  again to unlock control  panels.
+• When lock function is  activated, all functions 
+(excluding Power/Stop  and Lock button) will be  disabled.
+ • Do not operate the control panels with wet hands.
+ • Do not operate the control panels using sharp-edged or hard object. It may result in  damage.
+Caution

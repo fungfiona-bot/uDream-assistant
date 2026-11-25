@@ -1,0 +1,85 @@
+=== Manual PDF page 20 ===
+
+Troubleshooting
+If you encounter problems operating the product, please check the following points for rectification. If problems persist, please switch off the product, disconnect the power plug from the electrical outlet and contact the OSIM Service Centre* for servicing.
+Do not disassemble or attempt to repair the product yourself. Doing so will void the warranty and OSIM will not be responsible for any subsequent consequences.
+
+=== Manual PDF page 20 ===
+
+Problem: • Frictional sound of rollers against backrest. • Frictional sound of rollers within the footrest massage unit. • Motor sound during operation. • Loud sound during tapping and kneading program.
+Possible causes / action: • These sounds originate from the internal mechanism within the product during operation. • This may occur during normal usage and is not due to malfunction.
+
+=== Manual PDF page 20 ===
+
+Problem: • Operation stopped and the massage rollers move to its default position.
+Possible causes / action: • The auto timer for massage duration has lapsed. • The Power/Stop button [ ] or Reset button [ ] was pressed accidentally. • The product is equipped with a thermal resetting protection device. This is an added safety feature to protect the product from overheating. • If the product stops and fails to restart as a result of overheating, turn off the main switch for at least 30 minutes. Failure to do so may result in the product resuming operation unexpectedly when the device cools down.
+
+=== Manual PDF page 20 ===
+
+Problem: • Control panels do not function correctly.
+Possible causes / action: • Check the power plug and ensure that it is securely connected to the electrical outlet. • Check the power cord connection at the back of the product. • Ensure that the main switch is turned ‘ON’. • Ensure that the product is not connected to the OSIM Well-Being App. • If the same problem persists, please turn off the main switch, disconnect the power plug from the electrical outlet and contact OSIM Service Centre*.
+
+=== Manual PDF page 20 ===
+
+Problem: • Power cord and plug are abnormally hot.
+Possible causes / action: • Stop usage immediately and contact OSIM Service Centre* for assistance.
+
+=== Manual PDF page 21 ===
+
+Troubleshooting
+
+=== Manual PDF page 21 ===
+
+Problem: • Massage stops midway.
+Possible causes / action: • The Powet/Stop button [ ] was pressed accidentally. • Reset it by turning off and on the main switch located at the back of the product. Turn it on again after 5 seconds. • If the same problem persists, please turn off the main switch, disconnect the power plug from the electrical outlet and contact OSIM Service Centre*.
+
+=== Manual PDF page 21 ===
+
+Problem: • The product does not function.
+Possible causes / action: • Ensure that the main switch and the switch on the electrical outlet is turned on. • Ensure that the power plug is firmly connected to the electrical outlet. • Check that the voltage at the electrical outlet is adequate.
+
+=== Manual PDF page 21 ===
+
+Problem: • Footrest massage unit does not function.
+Possible causes / action: • Check that the footrest function is turned on. • Check the power plug and ensure that it is securely connected to the electrical outlet. If the same problem persists, please contact the OSIM Service Centre*.
+
+=== Manual PDF page 21 ===
+
+Problem: • Massage rollers stop during the massage session.
+Possible causes / action: • The roller mechanism may be strained when the massage speed is slow and subjected to excessive force. • Do not apply excessive force on the rollers.
+
+=== Manual PDF page 21 ===
+
+Problem: • The footrest cannot be retracted/extended.
+Possible causes / action: • Ensure no obstacles are in the way of the footrest, as this will trigger the safety mechanism.
+
+=== Manual PDF page 21 ===
+
+Problem: • The SkyCanopy cannot be retracted/extended.
+Possible causes / action: • Ensure no obstacles are in the way of the SkyCanopy, as this will trigger the safety mechanism.
+
+=== Manual PDF page 21 ===
+
+Problem: • Unsuccessful shoulders detection.
+Possible causes / action: • Sit in the deepest position of the chair ensuring your lumbar/back and head is place on the backrest cushion properly during the shoulder detection process. Do not move about in the seat during the shoulder detection process. • Re-adjust shoulders position using automatic or manual shoulder adjustment or the fine tune control available on the control panel.
+
+=== Manual PDF page 22 ===
+
+Troubleshooting
+* Please visit us at www.OSIM.com for information on the nearest service centre.
+Product warranty is valid only in the country of purchase.
+
+=== Manual PDF page 22 ===
+
+Problem: • The back massage and leg massage stops when the backrest is reclining.
+Possible causes / action: • For safety, the back massage and leg massage will stop when adjustments are being made to the backrest. This is not a defect.
+
+=== Manual PDF page 22 ===
+
+Problem: • Unsuccessful Bluetooth pairing after several attempts.
+Possible causes / action: • This could be due to signal interference. • Turn off the main switch located at the back of the chair. Turn it on again after 5 seconds and re-attempt the pairing.
+
+=== Manual PDF page 22 ===
+
+Problem: • If you face any problems other than the ones mentioned above, or problems still persists after following instructions.
+Possible causes / action: • Turn off the main switch, disconnect the power plug from the electrical outlet and contact the OSIM Service Centre* for assistance.
